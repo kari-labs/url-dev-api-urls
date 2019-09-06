@@ -1,3 +1,4 @@
 [submodule "url-dev-protobufs"]
 	path = url-dev-protobufs
 	url = https://github.com/kari-labs/url-dev-protobufs
+	branch = master
